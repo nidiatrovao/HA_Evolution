@@ -10,5 +10,6 @@ Nídia S. Trovão 1#; Sairah M. Khan 1; Philippe Lemey 2; Martha I. Nelson 1,3; 
 
 <br>
 </br>
+<!--
 File S3: Python script for ancestral sequence reconstruction and inference of glycosylation patterns. Available at https://github.com/nidiatrovao/HA_Evolution/assets/13024751/cecda77f-62c4-4009-8b12-bef0bd9f60ab.
-
+-->
