@@ -18,3 +18,8 @@ Manuscript available [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1088644
 
 File S3: Python script for ancestral sequence reconstruction and inference of glycosylation patterns. Available at https://github.com/nidiatrovao/HA_Evolution/assets/13024751/cecda77f-62c4-4009-8b12-bef0bd9f60ab.
 
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
